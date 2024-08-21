@@ -1,0 +1,64 @@
+.body{
+    background-image: linear-gradient(to right, #31B0E3, #E117FB) ;
+}
+
+.custom{
+    background-color: #ffffff;
+    height: 700px;
+    width: 600px;
+    margin: auto;
+    border: 2px solid rgb(145, 116, 224);
+    box-sizing: border-box;
+    margin-top: 35Px;
+    border-radius: 20px;
+    
+   
+}
+.title{
+    margin-top: 130px;
+    margin-left: 225px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 28px;
+}
+.form-control{
+    width: 87%;
+    margin-left: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 80px;
+}
+.form-control2{
+    width: 87%;
+    margin-left: 40px;
+    padding:10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+.In{
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-left: 115px;
+    width: 380px;
+    padding: 13px;
+    background-image: linear-gradient(to right,#49CAE5,#72B5E7,#EA3CFB);
+    color: aliceblue;
+    border: #ffffff;
+    border-radius: 10px;
+   
+}
+.title-2{
+    padding-left: 170px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin-top: 20px;
+
+}
+.cheekbox{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.body2{
+        border-radius: 10px;
+}
